@@ -10,6 +10,8 @@ Prosta aplikacja kalkulatora napisana w Pythonie, obsługująca podstawowe opera
 - Odejmowanie dwóch liczb
 - Mnożenie dwóch liczb
 - Dzielenie dwóch liczb (z obsługą dzielenia przez zero)
+- Potęgowanie
+- Obliczanie procentu
 
 ## Wymagania
 
