@@ -2,7 +2,7 @@
 
 ## Opis
 
-Prosta aplikacja kalkulatora napisana w Pythonie, obsługująca podstawowe operacje matematyczne: dodawanie, odejmowanie, mnożenie i dzielenie. Projekt zawiera również testy jednostkowe napisane w bibliotece `pytest`.
+Prosta aplikacja kalkulatora napisana w Pythonie, obsługująca podstawowe operacje matematyczne: dodawanie, odejmowanie, mnożenie, dzielenie, potęgowanie, obliczanie procentu. Projekt zawiera również testy jednostkowe napisane w bibliotece `pytest`.
 
 ## Funkcje
 
